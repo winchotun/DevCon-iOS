@@ -3,7 +3,7 @@ DevCon iOS 2013
 
 DevCon 2013 is a developer conference held each year opened to all IT professionals who are involved in any kind of software and software related solution development.
 
-This is the iOS Application to show the Schedules and the Speaker list. This is a work in a progress. Please see the issues section to report any bugs or feature requests and to see the list of known issues.
+This is the iOS Application to show Schedule and the Speaker list. This is a work in a progress. Please see the issues section to report any bugs or feature requests and to see the list of known issues.
 
 ![DevCon](https://www.monosnap.com/image/MAtB4hWOHHmQ1fd1MfnUxztNv.png)
 
@@ -20,7 +20,7 @@ You will need the following tools.
 * Xcode
 * SDK 6.0 or above
 
-Once you have the above tools installed, you can install the app as follows: 
+Once you have the above tools installed, you can install the app as follows:
 
 ###Cloning
 First of all you will have to clone the library.
@@ -28,9 +28,9 @@ First of all you will have to clone the library.
 $ git clone https://github.com/DevCon-Myanmar/DevCon-iOS
 ```
 
-You can just open the DevCon.xcodeproj. 
+You can just open the DevCon.xcodeproj.
 
-DevCon App has the following Library dependencies 
+DevCon App has the following Library dependencies
 * [PulldownMenu][2]
 * [AFNetworking][3]
 * [SVProgressHUB][4]
